@@ -1,0 +1,53 @@
+1.	Code review
+2.	match the code with the QAS and PRD checklist
+3.	Match the code against the Code review checklist
+4. 	Sonar scanner run krna hai
+5.	QAS ke lie package tyaar krna hai
+6.	Deploy the package
+7.	Check the logs
+8. 	Do the QAS end to end testing
+
+==================================================================================================================
+
+SonarQube
+How to execute SonarQube on local?
+1)	Connect to VPN first
+2)	Open Sonarqube Server - http://cgldmul9099:9000/about
+	Username: admin
+	P/W: admin
+3)	Place the sonar-project.properties file to the root directory of the code.
+4)	Update the sonar-project.properties file with the respective projectName and the projectKey
+5) 	GoTo the root level of the code directory. (C:\CodeRepo\if001sap-157-legaltracker)
+6)	Open Command Prompt in the root directory.
+7)	Run batch file sonar-scanner.bat from bin folder in the code's root directory through command line.
+	(D:\PROJECTS-APISERO\COMPASS\SonarQube\sonar-scanner-cli-4.6.2.2472-windows\sonar-scanner-4.6.2.2472-windows\bin\sonar-scanner.bat)
+	
+===================================================================================================================
+
+connect.compass-usa.com/mfa
+gagandeep.singh@compass-usa.com
+
+Account Details:
+Full Name: Singh, Gagandeep
+Login ID: SinghG01
+Domain: compass-usa
+Domain\UserName: compass-usa\SinghG01
+Password: Compass@June
+Compass Anypoint Studio:
+gagandeep-singh
+Compass@June
+
+=====================================================================================================================
+
+DEV and QA Server - cgldmul9099
+PRD Server - 10.152.244.128
+=====================================================================================================================
+
+/mule/v430/MULEQAS/logs/
+gagandeep-singh
+Compass@2021
+
+if050edw-21-mealsuite-mog
+*s6tAc_#e@XP
+
+git@bitbucket.org:stgessappdev/if001sap-142-visier-analytic.git
