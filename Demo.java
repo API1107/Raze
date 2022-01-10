@@ -6,6 +6,10 @@ public class Demo{
 		
 		System.out.println("Demo for Git ");
 		System.out.println("Git from Github ");
+		
+		
+		System.out.println("Demo for Git Slave");
+		System.out.println("Git from Github Slave");
 	}
 }
 
